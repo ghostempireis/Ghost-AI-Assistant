@@ -74,7 +74,7 @@ Example of voice command processing and AI response.
 
 Ghost responding to a conversational query.
 
-💡 How It Works
+💡** How It Works**
 Ghost listens for wake words: "hello ghost", "hey ghost", "ok ghost", "wake up ghost"
 
 Once awake, Ghost listens for your commands or queries.
@@ -85,10 +85,10 @@ Ghost provides voice feedback and logs messages in the communication panel.
 
 After 10 minutes of inactivity, Ghost automatically returns to standby mode.
 
-📜 License
+**📜 License**
 This project is licensed under the MIT License – see the LICENSE file for details.
 
-## 💡 Author
+**## 💡 Author**
 **Ranjan Kumar**  
 🚀 Passionate about Cybersecurity & AI  
 📧 Email - ranjan.osint@gmail.com
