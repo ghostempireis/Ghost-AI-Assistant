@@ -88,7 +88,9 @@ After 10 minutes of inactivity, Ghost automatically returns to standby mode.
 📜 License
 This project is licensed under the MIT License – see the LICENSE file for details.
 
-👨‍💻 Author
-Ranjan Kumar (Ghost Empire)
-Cybersecurity & AI Enthusiast | Bug Bounty Hunter
-🔗 LinkedIn | GitHub
+## 💡 Author
+**Ranjan Kumar**  
+🚀 Passionate about Cybersecurity & AI  
+📧 Email - ranjan.osint@gmail.com
+
+LinkedIn profile -https://www.linkedin.com/in/ranjanchauhan-cybersec/
