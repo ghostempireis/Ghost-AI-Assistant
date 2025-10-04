@@ -33,7 +33,7 @@ Ghost-AI-Assistant/
 ## 🛠 Installation
 
 1️⃣ **Clone the repository**
-```bash
+
 git clone https://github.com/ghostempireis/Ghost-AI-Assistant.git
 cd Ghost-AI-Assistant
 2️⃣ Install dependencies
@@ -48,7 +48,8 @@ YOUTUBE_API_KEY=your_youtube_api_key
 
 pip install pipwin
 pipwin install pyaudio
-▶️ Usage
+
+## ▶️ Usage
 Run the application:
 
 python ghost_ai.py
@@ -85,11 +86,11 @@ Ghost provides voice feedback and logs messages in the communication panel.
 
 After 10 minutes of inactivity, Ghost automatically returns to standby mode.
 
-**📜 License**
+## 📜 License
 This project is licensed under the MIT License – see the LICENSE file for details.
 
-**## 💡 Author**
-**Ranjan Kumar**  
+## 💡 Author
+Ranjan Kumar
 🚀 Passionate about Cybersecurity & AI  
 📧 Email - ranjan.osint@gmail.com
 
